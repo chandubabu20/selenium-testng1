@@ -1,0 +1,16 @@
+package order;
+
+import org.testng.annotations.Test;
+
+public class OrderCheck1 extends Order1 {
+
+	  @Test
+	  public void myTestMethod1() {
+	    System.out.println("myTestMethod1");
+	  }
+
+	  @Test
+	  public void myTestMethod2() {
+	    System.out.println("myTestMethod2");
+	  }
+	}

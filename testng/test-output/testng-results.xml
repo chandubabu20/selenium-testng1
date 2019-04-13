@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="24175" started-at="2019-04-13T18:01:41Z" finished-at="2019-04-13T18:02:05Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="24175" started-at="2019-04-13T18:01:41Z" finished-at="2019-04-13T18:02:05Z">
+      <class name="basics.TestNG2">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:basics.TestNG2@59fa1d9b]" name="launchBrowser" is-config="true" duration-ms="12738" started-at="2019-04-13T18:01:41Z" finished-at="2019-04-13T18:01:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="verifyHomepageTitle()[pri:0, instance:basics.TestNG2@59fa1d9b]" name="verifyHomepageTitle" is-config="true" duration-ms="796" started-at="2019-04-13T18:01:54Z" finished-at="2019-04-13T18:01:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomepageTitle -->
+        <test-method status="PASS" signature="register()[pri:0, instance:basics.TestNG2@59fa1d9b]" name="register" duration-ms="4230" started-at="2019-04-13T18:01:54Z" finished-at="2019-04-13T18:01:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- register -->
+        <test-method status="PASS" signature="goBackToHomepage()[pri:0, instance:basics.TestNG2@59fa1d9b]" name="goBackToHomepage" is-config="true" duration-ms="2328" started-at="2019-04-13T18:01:59Z" finished-at="2019-04-13T18:02:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goBackToHomepage -->
+        <test-method status="PASS" signature="verifyHomepageTitle()[pri:0, instance:basics.TestNG2@59fa1d9b]" name="verifyHomepageTitle" is-config="true" duration-ms="4" started-at="2019-04-13T18:02:01Z" finished-at="2019-04-13T18:02:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomepageTitle -->
+        <test-method status="PASS" signature="support()[pri:1, instance:basics.TestNG2@59fa1d9b]" name="support" duration-ms="1528" started-at="2019-04-13T18:02:01Z" finished-at="2019-04-13T18:02:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- support -->
+        <test-method status="PASS" signature="goBackToHomepage()[pri:0, instance:basics.TestNG2@59fa1d9b]" name="goBackToHomepage" is-config="true" duration-ms="1585" started-at="2019-04-13T18:02:02Z" finished-at="2019-04-13T18:02:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goBackToHomepage -->
+        <test-method status="PASS" signature="terminateBrowser()[pri:0, instance:basics.TestNG2@59fa1d9b]" name="terminateBrowser" is-config="true" duration-ms="918" started-at="2019-04-13T18:02:04Z" finished-at="2019-04-13T18:02:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terminateBrowser -->
+      </class> <!-- basics.TestNG2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
